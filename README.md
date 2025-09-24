@@ -6,8 +6,8 @@
 
 # 💫 Sobre Mim:
 👋 Olá, Devs! Bem-vindos ao meu perfil do GitHub.  
-💻 **Desenvolvedor Front-end** 
-✨ Formação Full-Stack em andamento.
+💻 **Desenvolvedora Full-Stack** 
+✨ Formação CyberSec em andamento.
 🚀 Em constante aprendizado. 
 
   
